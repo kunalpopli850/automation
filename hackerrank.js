@@ -5,7 +5,7 @@ let objO;
 //PPTR.DEV opens the documentation of puppeteer
 let gBrow;
 let email="lakefet194@pidhoes.com"
-let pass="abcd1234"
+let pass="abcd1234";
 
  pup.launch({
     headless :false,
